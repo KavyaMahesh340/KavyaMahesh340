@@ -6,7 +6,7 @@
 
 Tamil Nadu, India
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=0A66C2&vCenter=true&width=560&lines=Building+across+full-stack%2C+ML+%26+IoT+healthcare;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Repeat;Currently+deepening+Java+%26+Spring+Boot" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=008000&vCenter=true&width=560&lines=Building+across+full-stack%2C+ML+%26+IoT+healthcare;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Repeat;Currently+deepening+Java+%26+Spring+Boot" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/-kavya--mahesh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle/)
 [![GitHub](https://img.shields.io/badge/-KavyaMahesh340-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KavyaMahesh340)
