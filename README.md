@@ -2,7 +2,7 @@
 
 # Kavya Mahesh
 
-**M.Tech / B.Tech CSE Student · Full-Stack Developer · AI/ML Engineer**
+**BE CSE Student · Full-Stack Developer · AI/ML Engineer**
 
 Tamil Nadu, India
 
