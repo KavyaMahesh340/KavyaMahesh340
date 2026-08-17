@@ -103,11 +103,4 @@ CNN-based classifier trained on MNIST, reaching 99%+ accuracy.
 - Mobile app development (Flutter)
 - Data visualization & analytics (Tableau, Power BI)
 
----
 
-<div align="left">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KavyaMahesh340&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&height=165)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaMahesh340&layout=compact&theme=tokyonight&hide_border=true&height=165)
-
-</div>
